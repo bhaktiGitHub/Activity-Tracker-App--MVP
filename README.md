@@ -55,9 +55,9 @@ Dashboard /Home Screen
 
 
 
-![alt text] https://ibb.co/fQuZpc?raw=true)
+![alt text]https://ibb.co/fQuZpc?raw=true)
 
-![alt text]https://ibb.co/iUKOhx)
+![alt text]https://ibb.co/iUKOhx?raw=true)
 
 ![alt text]https://ibb.co/ma6fUc)
 
