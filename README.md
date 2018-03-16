@@ -62,3 +62,13 @@ Dashboard /Home Screen
 ![alt text]https://ibb.co/ma6fUc)
 
 ![alt text]https://ibb.co/gbU0Uc)
+
+![alt text](https://ibb.co/f83cQH)
+![alt text](https://ibb.co/d68oXx)
+![alt text](https://ibb.co/n1r8Xx)
+![alt text](https://ibb.co/jem8Xx)
+![alt text](https://ibb.co/bUz6Kc)
+![alt text](https://ibb.co/fHg8Xx)
+
+
+
