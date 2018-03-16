@@ -44,9 +44,6 @@ Screen to show all the activities displayed in order.
 
 ![Forgot_Password](https://image.ibb.co/e7nqCx/Forgot_Pass.png )
 
-
-https://image.ibb.co/e7nqCx/Forgot_Pass.png
-
 ### Reset Password Screen
    Using this screen you can reset password . for safety app will ask you to enter password twice  and if both passwords match it will be saved in database as user new password which you can use for login .
 
