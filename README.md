@@ -58,6 +58,5 @@ User  flow for screens :-
 ## Dashboard /Home Screen
 	  Logged in user will see the Dashoboard , where user will see all his activities and follow links and buttons to add new activity , check status of acitivies etc
 
-
 ![Home_Screen](https://image.ibb.co/mrPTXx/Home_Screen.png )
 
