@@ -59,7 +59,7 @@ Dashboard /Home Screen
 
 ![alt text](https://image.ibb.co/gxK0Uc/IMG_0844_copy.jpg)
 
-![Add_New_Activity](https://image.ibb.co/cv8Yzc/Add_New_Activty.png )
+![Add_New_Activity](https://ibb.co/cv8Yzc/Add_New_Activity.png )
 
 ![alt text](https://ibb.co/d68oXx )
 
