@@ -57,7 +57,7 @@ Dashboard /Home Screen
 
 ![alt text](https://image.ibb.co/hDw3hx/IMG_0842.jpg)
 
-![alt text](https://ibb.co/iUKOhx?raw=true)
+![alt text](https://image.ibb.co/gxK0Uc/IMG_0844_copy.jpg)
 
 ![alt text]https://ibb.co/ma6fUc)
 
